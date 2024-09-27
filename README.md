@@ -1,2 +1,1 @@
-# Structural Dynamics
-Digital Textbook & Examples 
+# Digital Textbook & Examples 
